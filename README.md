@@ -24,14 +24,14 @@ GitHub Pages： https://guohub8080.github.io/vue_date_calc_kit_v2/#/time/calc
 # 彩蛋
 
 更新算法及新增桌面时钟功能。 桌面时钟目前有四个风格：
-1.迷你日历、数字时间和模拟时钟
+1. 迷你日历、数字时间和模拟时钟
 https://guohub8080.github.io/vue_date_calc_kit_v2/#/time/style1
 
-2.仅显示数字时间
+2. 仅显示数字时间
 https://guohub8080.github.io/vue_date_calc_kit_v2/#/time/style2
 
-3.仅显示模拟时钟
+3. 仅显示模拟时钟
 https://guohub8080.github.io/vue_date_calc_kit_v2/#/time/style3
 
-4.数字时间和模拟时钟
+4. 数字时间和模拟时钟
 https://guohub8080.github.io/vue_date_calc_kit_v2/#/time/style4
