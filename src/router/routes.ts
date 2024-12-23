@@ -13,7 +13,7 @@ const routes: Array<RouteRecordRaw> = [{
 
     {
         path: "/:pathMatch(.*)*",
-        redirect: {name: "error_page"}
+        redirect: "/time/calc",
     },
 
 ]

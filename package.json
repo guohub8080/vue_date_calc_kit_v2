@@ -10,6 +10,7 @@
   "dependencies": {
     "@vueuse/core": "^8.5.0",
     "ant-design-vue": "^3.2.3",
+    "dayjs": "^1.11.13",
     "decimal.js": "^10.4.3",
     "http-server": "^14.1.0",
     "js-calendar-converter": "^0.0.5",
